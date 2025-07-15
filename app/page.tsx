@@ -1,7 +1,5 @@
 import Link from "next/link";
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
 export default function Home() {
   return (
     <main>

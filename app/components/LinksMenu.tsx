@@ -1,9 +1,6 @@
 "use client";
 import * as React from "react";
 import { NavigationMenu, NavigationMenuContent, NavigationMenuIndicator, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, NavigationMenuTrigger, NavigationMenuViewport } from "@radix-ui/react-navigation-menu";
-import classnames from "classnames";
-import { CaretDownIcon } from "@radix-ui/react-icons";
-import { Link } from "lucide-react";
 
 const ExpandingMenu = () => {
   return (
