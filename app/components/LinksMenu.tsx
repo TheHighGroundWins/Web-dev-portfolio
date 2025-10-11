@@ -16,7 +16,7 @@ const ExpandingMenu = () => {
               <li>
             <NavigationMenuLink asChild>
               <div className="flex">
-              <img width={25} src={"/InBug-White.png"}></img>
+              <img width={25} src={"InBug-White.png"}></img>
             <a href="https://www.linkedin.com/in/juan-carlos-carlos-alberto/">LinkedIn</a>
             </div>
             </NavigationMenuLink>
@@ -24,7 +24,7 @@ const ExpandingMenu = () => {
               <li>
             <NavigationMenuLink asChild>
               <div className="flex">
-              <img width={25} src={"/github-mark-white.png"}></img>
+              <img width={25} src={"github-mark-white.png"}></img>
               <a href="https://github.com/TheHighGroundWins/">Github</a>
               </div>
             </NavigationMenuLink>
