@@ -5,8 +5,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   output: "export",
-  basePath: isProd ? "/Web-dev-portfolio" : "",
-  assetPrefix: isProd ? '/Web-dev-portfolio/' : '',
+  basePath: "",
+  assetPrefix: '',
   images: { unoptimized: true },
 };
 
